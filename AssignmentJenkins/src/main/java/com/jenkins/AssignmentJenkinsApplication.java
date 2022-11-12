@@ -9,7 +9,7 @@ public class AssignmentJenkinsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AssignmentJenkinsApplication.class, args);
 		
-		System.out.println("Hello ");
+		System.out.println("Hello Jenkins");
 	}
 
 }
